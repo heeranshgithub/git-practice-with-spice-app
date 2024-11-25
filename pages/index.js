@@ -17,7 +17,7 @@ export default function Home() {
   return (
     <div>
       <div>
-        <h1>Wuhuuuu</h1>
+        <h1>Wuhuuuu Buhuuuuu</h1>
       </div>
 
       {/* Desktop Menu (fixed at the top) */}
